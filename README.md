@@ -57,7 +57,7 @@ Setup Instructions
 
 
 Clone the Repository:
-git clone <your-repo-url>
+git clone <-repo-url>
 cd blog-api
 
 Install Dependencies
